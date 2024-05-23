@@ -2,10 +2,10 @@
 
 div {
     color: white;
-    background-color: black;
+    background-color: rgb(255, 0, 0);
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
   }
   
-  p {
-    color: red;
-  }
   
